@@ -4,13 +4,13 @@ This Android application was used to apply at Shopify for the 2019 Winter term. 
 ## Usage
 If you only want to try the application, there is a [.apk](app.apk) file in which you can run or if you want to modify the code, the code is in this repository.
 
-# Design
+## Design
 An interactive mockup of the application is available on Adobe XD, which can be accessed [here](https://xd.adobe.com/view/c19502b0-458a-40d2-5f77-d7207431b104-b7a4/). The mockup can also be seen below.
 
 ![TagsDesign](screenshots/TagsDesign.png)
 ![ProductsDesign](screenshots/ProductsDesign.png)
 
-# Screenshots
+## Screenshots
 [![Tags](screenshots/Tags.png)](screenshots/TagsFull.png)
 [![Products1](screenshots/Products1.png)](screenshots/Poducts1Full.png)
 [![Products2](screenshots/Products2.png)](screenshots/Poducts2Full.png)
