@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">ShopifyWinter2019Challenge</string>
-    <string name="product_description">For more details, touch a product</string>
-    <string name="tags_title">Tags</string>
-    <string name="tags_description">Click on a tag to see its associated products</string>
-    <string name="snackbar_title">Description</string>
-    <string name="product_image_description">Product image</string>
-</resources>
